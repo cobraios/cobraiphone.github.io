@@ -1,0 +1,28 @@
+Package: com.yourcompany.helloworldapps
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.yourcompany.helloworldapps_0.0.1-2_iphoneos-arm.deb
+Size: 1526
+Installed-Size: 32
+MD5sum: afa6db8ccf43cd59e285ae974aa6669a
+Description: An awesome MobileSubstrate tweak!
+Name: Hello World Apps
+Author: Nobody
+
+Package: com.yourcompany.helloworldsb
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Nobody
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.yourcompany.helloworldsb_0.0.1-1_iphoneos-arm.deb
+Size: 1992
+Installed-Size: 32
+MD5sum: 279e26b109bfcdf8a9f6a92d2d9c112e
+Description: An awesome MobileSubstrate tweak!
+Name: Hello World SB
+Author: Nobody
+

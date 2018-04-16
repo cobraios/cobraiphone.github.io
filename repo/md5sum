@@ -1,0 +1,3 @@
+#!/bin/sh
+# Shell script to replace missing md5sum on OS X; Put in /usr/local/bin
+md5 -r $@
