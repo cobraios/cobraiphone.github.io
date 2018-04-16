@@ -1,0 +1,42 @@
+<package>
+	<id>com.cobraios.aneInfo</id>
+	<name>AneInfo</name>
+	<version>1.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>AneInfo gathers info from the weather.framework you must have the Weather.app installed and have weather set to always in location settings. (iPX users) setting to always isn't a must but highly recommended.</description>
+		<!--
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+		-->
+	</descriptionlist>
+<!--	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	-->
+</package>

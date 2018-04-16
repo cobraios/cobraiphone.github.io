@@ -1,0 +1,43 @@
+<package>
+	<id>com.cobraios.sweetburst</id>
+	<name>Sweet Burst</name>
+	<version>1.2.5-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxios>11.1.2</maxios>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This theme has some colorful icons also has 2 UI sounds.</description>
+		<!--
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+		-->
+	</descriptionlist>
+<!--	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	-->
+</package>

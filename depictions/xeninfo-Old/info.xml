@@ -1,0 +1,46 @@
+<package>
+	<id>com.cobraios.xeninfo</id>
+	<name>XenInfo</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxios>11.1.2</maxios>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>XenHTML</package>
+	</dependencies>
+	<descriptionlist>
+		<description>XenInfo gathers info from the weather.framework you must have the Weather.app installed and have weather set to always in location settings. (iPX users) setting to always isn't a must but highly recommended. </description>
+		<!--
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+		-->
+	</descriptionlist>
+<!--	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+	-->
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
